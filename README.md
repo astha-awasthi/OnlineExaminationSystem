@@ -5,11 +5,11 @@
 ### Homepage
 ![homepage snap](https://github.com/astha-awasthi/OnlineExaminationSystem/blob/main/static/screenshots/homepage.png)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/adminhomepage.png?raw=true)
+![dashboard snap](https://github.com/astha-awasthi/OnlineExaminationSystem/blob/main/static/screenshots/adminhomepage.png)
 ### Exam Rules
-![invoice snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/rules.png?raw=true)
+![invoice snap](https://github.com/astha-awasthi/OnlineExaminationSystem/blob/main/static/screenshots/rules.png)
 ### Exam
-![doctor snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/exam.png?raw=true)
+![doctor snap](https://github.com/astha-awasthi/OnlineExaminationSystem/blob/main/static/screenshots/rules.png)
 ### Teacher
 ![doctor snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/teacher.png?raw=true)
 ---
